@@ -12,3 +12,4 @@ Problems in this repo:
 - [Length of Longest Fibonacci
   Subsequence](src/LongestFibonacciSequence)
 - [Longest Palindromic Substring](src/LongestPalindromeSubstring)
+- [Sqrt(x)](src/Sqrt)
