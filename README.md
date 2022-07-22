@@ -1,6 +1,6 @@
 # Leetcode
 
-This is an archive of my all solutions to `Leetcode`
+This is an archive of my all solutions to `leetcode`
 problems and other things associated with it.
 
 [My Profile](https://leetcode.com/shinero) on **leetcode**.
